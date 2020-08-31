@@ -1,6 +1,7 @@
 # scalaspring
 
 ## setup for spring-boot rest-api with scala
+#### simple crate read update delete api example
 
 scala -version 2.11.12
 
